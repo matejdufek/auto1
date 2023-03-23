@@ -17,6 +17,8 @@ enum {
   STOP
 };
 
+// Tady se podívej jak to to změním
+
 void setup() {
   Serial.begin(115200);
   // m1.setSpeed(rychlost);m2.setSpeed(rychlost);m3.setSpeed(rychlost);m4.setSpeed(rychlost);
